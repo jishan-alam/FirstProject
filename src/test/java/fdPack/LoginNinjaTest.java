@@ -17,7 +17,7 @@ public class LoginNinjaTest extends Base{
 	@BeforeMethod
 	public void openBrowser() throws IOException {
 		
-		System.out.println("code changed by other needed to pull");
+		System.out.println("code changed by me needed to push");
 		driver = initializeDriver();
 		driver.get(pro.getProperty("url"));
 	}
