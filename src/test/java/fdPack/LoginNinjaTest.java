@@ -4,7 +4,6 @@ import java.io.IOException;
 
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
@@ -25,8 +24,7 @@ public class LoginNinjaTest extends Base{
 	@Test(dataProvider ="getdata")
 	public void loginTest(String EmailID, String Password) {
 		
-		
-		
+		System.out.println("karan has updated this code now");
 		LandingPageObject LandingPageObject = new LandingPageObject(driver);
 		
 		LandingPageObject.myAccountDrop().click();
