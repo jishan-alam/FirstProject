@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-20T18:08:48 IST" name="Default suite" finished-at="2022-04-20T18:11:17 IST" duration-ms="148588">
+    <groups>
+    </groups>
+    <test started-at="2022-04-20T18:08:48 IST" name="Default test" finished-at="2022-04-20T18:11:17 IST" duration-ms="148588">
+      <class name="fdPack.LoginTestNinja">
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:fdPack.LoginTestNinja@7a419da4]" started-at="2022-04-20T18:08:48 IST" name="loginTest" data-provider="getdata" finished-at="2022-04-20T18:09:28 IST" duration-ms="39780" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jishanalam123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[acdefs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:fdPack.LoginTestNinja@7a419da4]" started-at="2022-04-20T18:09:28 IST" name="tearDown" finished-at="2022-04-20T18:09:31 IST" duration-ms="2376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:fdPack.LoginTestNinja@7a419da4]" started-at="2022-04-20T18:09:31 IST" name="loginTest" data-provider="getdata" finished-at="2022-04-20T18:09:53 IST" duration-ms="22723" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jishanalam12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9034]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:fdPack.LoginTestNinja@7a419da4]" started-at="2022-04-20T18:09:53 IST" name="tearDown" finished-at="2022-04-20T18:09:54 IST" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:fdPack.LoginTestNinja@7a419da4]" started-at="2022-04-20T18:09:54 IST" name="loginTest" data-provider="getdata" finished-at="2022-04-20T18:10:27 IST" duration-ms="32971" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jishanalam23@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nndjnf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:fdPack.LoginTestNinja@7a419da4]" started-at="2022-04-20T18:10:27 IST" name="tearDown" finished-at="2022-04-20T18:10:27 IST" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:fdPack.LoginTestNinja@7a419da4]" started-at="2022-04-20T18:10:27 IST" name="loginTest" data-provider="getdata" finished-at="2022-04-20T18:10:56 IST" duration-ms="28830" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jishanalam103@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:fdPack.LoginTestNinja@7a419da4]" started-at="2022-04-20T18:10:56 IST" name="tearDown" finished-at="2022-04-20T18:10:56 IST" duration-ms="364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:fdPack.LoginTestNinja@7a419da4]" started-at="2022-04-20T18:10:56 IST" name="loginTest" data-provider="getdata" finished-at="2022-04-20T18:11:16 IST" duration-ms="19892" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jishanalam100@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:fdPack.LoginTestNinja@7a419da4]" started-at="2022-04-20T18:11:16 IST" name="tearDown" finished-at="2022-04-20T18:11:17 IST" duration-ms="625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- fdPack.LoginTestNinja -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
